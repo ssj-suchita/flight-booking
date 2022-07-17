@@ -1,0 +1,17 @@
+{
+	"info": {
+		"_postman_id": "eeccaee3-6fab-4faf-875e-2a46666c16ea",
+		"name": "Flights",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Search Flights",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
